@@ -5,16 +5,21 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write   # REQUIRED
+
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          persist-credentials: true  # important for push
+          fetch-depth: 0
+          persist-credentials: true
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Ashkar21
@@ -22,12 +27,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push snake
+      - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generate contribution snake"
+          message: "Generate snake"
           add: "dist/**"
           branch: output
           push: true
