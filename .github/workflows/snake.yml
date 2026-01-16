@@ -1,17 +1,18 @@
 name: Generate Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # important for push
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -21,10 +22,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation
+      - name: Commit and push snake
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
+          author_name: github-actions
+          author_email: github-actions@github.com
           message: "Generate contribution snake"
-          add: "dist"
-
+          add: "dist/**"
+          branch: output
+          push: true
