@@ -1,79 +1,68 @@
-<h1 align="center">Hi 👋, I'm Ashkar R</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning & Deep Learning Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ashkar%20R&height=130&fontSize=65&animation=twinkling&color=gradient" />
 </p>
 
 <p align="center">
-  📍 Kerala, India 🇮🇳  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Scientist+🚀;Machine+Learning+%26+Deep+Learning;Python+%7C+TensorFlow+%7C+AI;Always+Learning+🔥" />
+</p>
+
+<p align="center">
+📍 Kerala, India 🇮🇳
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🧠 Passionate about **Data Science, AI & Machine Learning**
-- 🔬 Hands-on experience with **ML, DL & CNN-based models**
-- 📊 Love turning data into **real-world intelligent solutions**
-- 🚀 Constantly learning and improving my technical skills
+- 🧠 Data Scientist focused on **ML & Deep Learning**
+- 🔬 Experience with **CNN, DenseNet, EfficientNet**
+- 📊 Building **real-world AI solutions**
+- 🚀 Continuous learner
 
 ---
 
 ## 🧠 Skills & Technologies
 
-### 🔥 Core Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-### 🌐 Web & Database (Working Knowledge)
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 📱 Mobile (Basic)
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,mysql,flutter&theme=dark" />
 </p>
 
 ---
 
 ## 📊 Featured Projects
-- 🧠 **Stroke & Tumor Detection Model**  
-  *CNN, DenseNet, EfficientNet* — **96% Accuracy**
-
-- 🌸 **Iris Flower Classification**  
-  *KNN, Feature Engineering, LOOCV* — **100% Accuracy**
-
-- 💳 **Credit Card Fraud Detection System**  
-  *Random Forest, ANN, SMOTE* — **98% Accuracy**
+- 🧠 **Stroke & Tumor Detection** – CNN (96% Accuracy)
+- 🌸 **Iris Classification** – KNN (100% Accuracy)
+- 💳 **Credit Card Fraud Detection** – RF + ANN (98% Accuracy)
 
 ---
 
-## 🏆 Achievements & Experience
-- 🥈 **2nd Prize – APJKTU Tech Fest 2023**
-- 👨‍🏫 Conducted **Web Design Workshops**
-- 🌐 **Web Master** – IEEE & Mulearn (College Level)
-- 🧩 Hackathon Coordinator – **TinkerHub**
-- 🤝 Active participant in multiple hackathons & tech events
+## 🏆 Achievements
+- 🥈 2nd Prize – APJKTU Tech Fest 2023
+- 🌐 IEEE & Mulearn Web Master
+- 🧩 Hackathon Coordinator – TinkerHub
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashkarrahim21&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkarrahim21&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashkar21&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashkar21&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
+---
+
+## 🐍 Contribution Snake Animation
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashkarrahim21&theme=tokyonight" />
+  <img src="https://github.com/Ashkar21/Ashkar21/blob/output/dist/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌈 Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashkar21&theme=github_dark" />
 </p>
 
 ---
@@ -89,8 +78,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+⭐ Star my repositories if you like my work!
 </p>
