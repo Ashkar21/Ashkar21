@@ -46,19 +46,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashkar21&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashkar21&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 ---
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/Ashkar21/Ashkar21/blob/output/dist/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌈 Contribution Summary
 
 <p align="center">
