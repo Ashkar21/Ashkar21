@@ -27,3 +27,4 @@ jobs:
           branch: output
           message: "Generate contribution snake"
           add: "dist"
+
