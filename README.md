@@ -42,8 +42,8 @@ I enjoy building **scalable, real-world models** that solve meaningful problems.
 
 | Project | Description | Tech Stack | Accuracy |
 |-------|------------|-----------|----------|
+| ⚡ **Household Energy Consumption Prediction** | Predict household Global Active Power (kW) using XGBoost regression | Python, XGBoost, Scikit-learn | **R² = 0.9988** |
 | 🧠 **Stroke & Tumor Detection** | Medical image classification using CNN | TensorFlow, CNN | **96%** |
-| 🌸 **Iris Classification** | Multiclass classification using KNN | Scikit-learn | **100%** |
 | 💳 **Credit Card Fraud Detection** | Hybrid ML + ANN fraud detection system | RF, ANN | **98%** |
 
 ---
@@ -60,7 +60,7 @@ I enjoy building **scalable, real-world models** that solve meaningful problems.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashkar21&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Ashkar21&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashkar21&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
