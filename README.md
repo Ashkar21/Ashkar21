@@ -1,4 +1,4 @@
-<!-- ================= CYBERPUNK NEON BANNER ================= -->
+<!-- ================= CYBERPUK NEON BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Ashkar%20R&fontSize=68&fontAlignY=35&animation=twinkling&color=0:00E5FF,50:7F00FF,100:FF00CC" />
 </p>
